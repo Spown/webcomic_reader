@@ -838,6 +838,7 @@ var defaultSettings = {
 // @include        https://manga.madokami.al/reader/*
 // @match          *://www.mngdoom.com/*/*
 // @match          *://kimchicuddles.com/post/*
+// @match          *://hoppinggills.com/page/*
 // ==/UserScript==
 
 // End of includes
